@@ -1,0 +1,71 @@
+/* Style CSS here */
+
+h1 {
+    text-align:center;
+}
+
+/* index.html */
+#index-recipe-header {
+    font-family: "Verdana", "Arial", sans-serif;
+    font-size: 25;
+    font-weight: bold;
+    color:whitesmoke;
+    background-color:hotpink;
+    text-align: center;
+    border: 2px solid gold;
+}
+
+.index-recipe-list {
+    font-family: "Verdana", "Arial", sans-serif;
+    font-size: 20px;
+    background-color:pink;
+    text-align: center;
+    border: 2px solid gold;
+
+}
+
+/* recipes html */
+
+p {
+    font-size: 18px;
+}
+
+h2 {
+    color:whitesmoke;
+    background-color: hotpink;
+}
+
+h4 {
+    color:whitesmoke;
+    background-color: salmon;
+}
+
+img {
+    border: 5px solid gold;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul{
+    font-family: "Verdana", "Arial", sans-serif;
+    font-size: 20px;
+    background-color:lightpink;
+    text-align: center;
+    border: 2px solid gold;
+}
+
+ol{
+    font-family: "Verdana", "Arial", sans-serif;
+    font-size: 18px;
+    background-color:lightpink;
+    text-align: left;
+    border: 2px solid gold; 
+}
+
+.disclaimer {
+    color: hotpink;
+    background-color: pink;
+}
+
+
